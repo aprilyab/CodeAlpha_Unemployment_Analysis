@@ -1,0 +1,17 @@
+
+
+```gitignore
+# Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+
+# VSCode or other editor settings
+.vscode/
+*.swp
